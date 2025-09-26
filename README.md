@@ -1,3 +1,30 @@
+# Liquid Glass Demo App
+
+A React Native demo app showcasing **Liquid Glass UI effects** on iOS. This project demonstrates interactive glass-like components, cards, navigation bars, and different shapes using native iOS effects for a sleek, modern UI.
+
+---
+
+## 🚀 Features
+
+- Fully **interactive Liquid Glass components**.
+- **Glass cards** with clear and regular effects.
+- **Merging glass elements** to create overlapping effects.
+- Customizable **color schemes**: light, dark, system.
+- **Interactive bottom navigation bar** with icons and labels.
+- Automatic fallback for unsupported platforms.
+- Uses native iOS `UIVisualEffectView` (and `UIGlassEffect` for iOS 18+).
+
+---
+
+## 🛠 Installation
+
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/liquid-glass-app.git
+cd liquid-glass-app
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
